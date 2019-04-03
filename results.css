@@ -1,0 +1,39 @@
+<style>
+{
+	background-color: blue;
+    }
+body 
+{ 
+	background-image:url("fhfh.jpg");
+	background-color: #cccc;
+	span
+	{
+		font-size: 30px;
+		vertical-align: bottom;
+		line-height: 2;
+		content: "\236A";
+	}
+}
+.button
+{
+float:;
+background-color:#f42c2c;
+ border-radius:6px;
+ margin-right:10px;
+ padding:12px 12px 12px 12px; */
+ position: bottom-left;
+}
+
+#position {
+    position: absolute;
+    bottom: 50px;
+    left: 120px;
+    font-size: 18px;
+}
+#position2 {
+    position: absolute;
+    bottom: 50px;
+    right: 120px;
+    font-size: 18px;
+}
+</style>
